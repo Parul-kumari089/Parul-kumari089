@@ -1,11 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Parul Kumari</h1>
 
 <h3 align="center">
-Computer Science Undergraduate • AI & ML Enthusiast • IoT Developer • Problem Solver
+Computer Science Undergraduate • AI & ML Enthusiast • IoT • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Machine+Learning+Enthusiast;AI+%7C+IoT+Developer;Always+Learning+New+Technologies;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Machine+Learning+Enthusiast;AI+%7C+;Always+Learning+New+Technologies;Future+Software+Engineer" />
 </p>
 
 ---
@@ -22,7 +22,6 @@ I am a passionate Computer Science student with a strong interest in **Artificia
 
 * 🌱 Currently learning **Data Structures & Algorithms**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 💻 Interested in Backend Development
 * 🚀 Looking for Software Development & AI/ML Internship opportunities
 
 ---
@@ -55,7 +54,7 @@ I am a passionate Computer Science student with a strong interest in **Artificia
 
 ### Backend & Databases
 
-* Fast API
+* FastAPI
 * MySQL
 
 ### IoT
@@ -71,7 +70,6 @@ I am a passionate Computer Science student with a strong interest in **Artificia
 * GitHub
 * VS Code
 * Streamlit
-* Postman
 
 ---
 
@@ -127,36 +125,16 @@ A smart IoT-based smoke detection system that detects harmful smoke and instantl
 
 **Tech Stack**
 
-ESP8266 • Arduino IDE • MQ Sensor • Blynk
+ESP8266 • Arduino IDE • MQ Gas Sensor • Blynk
 
 ---
 
 # 📚 Currently Learning
 
 * Data Structures & Algorithms
-* System Design Basics
 * Machine Learning
 * Artificial Intelligence
-* FastAPI
 * Git & GitHub
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
