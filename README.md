@@ -93,10 +93,7 @@ Building practical software and AI applications while continuously improving my 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parul-kumari089&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parul-kumari089&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=Parul-kumari089&theme=tokyonight&hide_border=true"/>
