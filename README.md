@@ -62,7 +62,7 @@ Building practical software and AI applications while continuously improving my 
 
 📈 **CGPA:** 9.36
 
-💡 Passionate about **Software Development**, **Artificial Intelligence**, and **Machine Learning**, with hands-on experience building real-world academic projects.
+💡 Passionate about **Software Development**, **Artificial Intelligence**, and **Machine Learning**, with hands-on experience building  practical projects.
 
 🌱 Currently learning **Data Structures & Algorithms** while strengthening my software development skills.
 
@@ -190,7 +190,7 @@ Machine learning model for detecting fraudulent transactions using preprocessing
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
----
+
 ### 🔥 IoT Smoke Detection System
 
 IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monitoring smoke levels and sending real-time alerts through Wi-Fi.
@@ -222,7 +222,7 @@ IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monit
 
 - 🎓 **IBM SkillsBuild Virtual Internship** – Generative AI & Cloud Computing
 - 🎓 **AI Careers for Women** – Microsoft, SAP & Edunet Foundation
-- 🎓 **AI/ML Traning** – Torr Lab
+- 🎓 **AI/ML Training** – Torr Lab
 - 🎓 **Operating Systems Basics** – Cisco Networking Academy
 - 🎓 **Cybersecurity Essentials** – Cisco Networking Academy
 
