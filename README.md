@@ -110,41 +110,84 @@ Building practical software and AI applications while continuously improving my 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parul-kumari089&theme=tokyonight"/>
 </p>
 <!-- ========================================================= -->
-<!--                   SELECTED PROJECTS                       -->
+<!--                    SELECTED PROJECTS                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">💼 Selected Projects</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&text=Selected%20Projects&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<table>
-<tr>
-<td width="100%">
+---
 
 ## 🚨 ResQ – AI-Powered Disaster Response Assistant
 
-An AI-powered disaster response platform designed to provide intelligent emergency assistance through real-time weather updates, nearby shelter information, multilingual AI support, voice interaction, and emergency resources.
+> **Contributor** | AI-powered emergency response platform providing intelligent assistance during natural disasters.
 
 ### ✨ Key Features
 
-- 🤖 AI-powered emergency guidance
-- 🌦️ Real-time weather alerts
+- 🤖 AI-powered disaster guidance
+- 🌦️ Live weather updates
 - 📍 Nearby shelters & emergency services
 - 🎤 Voice Assistant
 - 💬 Chat History
 - 🌍 Multilingual Support
-- 🔐 Secure User Authentication
+- 🔐 Secure Authentication
 
 ### 🛠 Tech Stack
 
-`FastAPI` • `MongoDB Atlas` • `HTML` • `CSS` • `JavaScript` • `Groq API` • `OpenWeather API` • `Render`
+`FastAPI` • `MongoDB Atlas` • `HTML` • `CSS` • `JavaScript`
+`Groq API` • `OpenWeather API` • `Render`
 
-<p align="left">
-<a href="YOUR_RESQ_REPOSITORY_LINK">
+<p>
+
+<a href="YOUR_RESQ_REPOSITORY">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
 </p>
 
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🍽 Food Calorie Recognition
+
+Deep learning application that recognizes food from images and estimates nutritional information using **MobileNetV2 Transfer Learning**.
+
+**Highlights**
+
+- 📸 Food Recognition
+- 🥗 Nutrition Estimation
+- 🧠 Transfer Learning
+- 🖥️ Streamlit Interface
+
+**Tech Stack**
+
+`Python` • `TensorFlow` • `Keras`
+`MobileNetV2` • `OpenCV` • `Streamlit`
+
+<a href="https://github.com/Parul-kumari089/food-calorie-recognition">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
 </td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=food-calorie-recognition&theme=tokyonight&hide_border=true"/>
+
+</td>
+
 </tr>
+
 </table>
 
 ---
@@ -155,51 +198,34 @@ An AI-powered disaster response platform designed to provide intelligent emergen
 
 <td width="50%">
 
-## 🍽 Food Calorie Recognition
+### 💳 Credit Card Fraud Detection
 
-Deep learning application that identifies food items from images and estimates nutritional information using transfer learning.
-
-**Highlights**
-
-- 📸 Food Recognition
-- 🧠 MobileNetV2 Transfer Learning
-- 🥗 Nutrition Estimation
-- 🖥️ Streamlit Interface
-
-**Tech Stack**
-
-`Python` • `TensorFlow` • `Keras` • `OpenCV` • `MobileNetV2` • `Streamlit`
-
-<p>
-<a href="https://github.com/Parul-kumari089/food-calorie-recognition">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-## 💳 Credit Card Fraud Detection
-
-Machine learning model that detects fraudulent transactions using data preprocessing, feature engineering, and imbalance handling techniques.
+Machine learning model for detecting fraudulent transactions using preprocessing, imbalance handling, and classification techniques.
 
 **Highlights**
 
 - 💳 Fraud Detection
 - ⚖️ SMOTE
 - 📊 Data Preprocessing
-- 🤖 Machine Learning
+- 🤖 Model Evaluation
 
 **Tech Stack**
 
-`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`
+`Python` • `Scikit-learn`
+`Pandas` • `NumPy`
+`Matplotlib`
 
-<p>
-<a href="YOUR_CREDIT_CARD_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Parul-kumari089/credit-card-fraud-detection">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
-</p>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -215,9 +241,9 @@ Machine learning model that detects fraudulent transactions using data preproces
 
 <td width="50%">
 
-## 🔥 IoT Smoke Detection System
+### 🔥 IoT Smoke Detection System
 
-IoT-based smoke detection system using ESP8266 and MQ-2 sensor for monitoring smoke levels and sending real-time alerts.
+IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monitoring smoke levels and sending real-time alerts through Wi-Fi.
 
 **Highlights**
 
@@ -228,19 +254,22 @@ IoT-based smoke detection system using ESP8266 and MQ-2 sensor for monitoring sm
 
 **Tech Stack**
 
-`ESP8266` • `Arduino IDE` • `MQ-2 Sensor` • `Blynk`
+`ESP8266`
+`Arduino IDE`
+`MQ-2 Sensor`
+`Blynk`
 
-<p>
-<a href="YOUR_SMOKE_DETECTION_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Parul-kumari089/smoke-detection">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
-</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=food-calorie-recognition&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=smoke-detection&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -250,15 +279,13 @@ IoT-based smoke detection system using ESP8266 and MQ-2 sensor for monitoring sm
 
 ---
 
-<!-- ========================================================= -->
-<!--                CERTIFICATIONS & TRAINING                  -->
-<!-- ========================================================= -->
-
-<h2 align="center">🏆 Certifications & Training</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=80&section=header&text=Certifications%20&%20Training&fontSize=30&fontColor=ffffff"/>
+</p>
 
 - 🎓 **IBM SkillsBuild Virtual Internship** – Generative AI & Cloud Computing
 - 🎓 **AI Careers for Women** – Microsoft, SAP & Edunet Foundation
-- 🎓 **AI/ML Traning ** – Torr Lab
+- 🎓 **AI/ML Traning** – Torr Lab
 - 🎓 **Operating Systems Basics** – Cisco Networking Academy
 - 🎓 **Cybersecurity Essentials** – Cisco Networking Academy
 
