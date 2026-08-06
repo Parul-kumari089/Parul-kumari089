@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--      PARUL KUMARI         -->
-<!-- ========================= -->
-
 <h1 align="center">Hi 👋, I'm Parul Kumari</h1>
 
 <h3 align="center">
@@ -105,12 +101,6 @@ Building practical software and AI applications while continuously improving my 
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=Parul-kumari089&theme=tokyonight&hide_border=true"/>
 </p>
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parul-kumari089&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
 <!-- ========================================================= -->
 <!--                    SELECTED PROJECTS                      -->
 <!-- ========================================================= -->
@@ -123,7 +113,8 @@ Building practical software and AI applications while continuously improving my 
 
 ## 🚨 ResQ – AI-Powered Disaster Response Assistant
 
-> **Contributor** | AI-powered emergency response platform providing intelligent assistance during natural disasters.
+> **Role:** Contributor
+AI-powered disaster response platform providing emergency guidance, weather updates, nearby shelters, multilingual AI support, and voice interaction during disasters.
 
 ### ✨ Key Features
 
@@ -246,6 +237,7 @@ IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monit
 </h3>
 
 <p align="center">
+I'm always open to learning, collaboration, and building meaningful software solutions.
 If you find my projects interesting, feel free to explore my repositories and connect with me.
 </p>
 
