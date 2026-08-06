@@ -1,163 +1,209 @@
-# <h1 align="center">Hi 👋, I'm Parul Kumari</h1>
+<!-- ========================================================= -->
+<!--                 FAANG LEVEL GITHUB PROFILE               -->
+<!-- ========================================================= -->
+
+<h1 align="center">Hi 👋, I'm Parul Kumari</h1>
 
 <h3 align="center">
-Computer Science Undergraduate • AI & ML Enthusiast • Problem Solver
+Final Year Computer Science Engineering Student | AI & ML Enthusiast | Backend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi%2C+Welcome+to+My+GitHub!;Computer+Science+Student;Machine+Learning+Enthusiast;Building+AI+Projects;Future+Software+Engineer"/>
+Passionate about building scalable software, AI-powered applications, and solving real-world problems through technology.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+<div align="center">
 
-🎓 **B.Tech in Computer Science & Engineering (2023–2027)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;FastAPI+Developer;Cloud+Computing+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/Parulkumari02">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:parulluharuka2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Parul-kumari089">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" alt="Coding" width="340"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Final Year **B.Tech Computer Science Engineering Student**
 
 🏫 Rajasthan College of Engineering for Women (RCEW), Jaipur
 
-📈 **CGPA:** **9.36**
+📈 CGPA **9.36**
 
-I am a passionate Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, IoT, and Software Development**. I enjoy building practical software projects, exploring new technologies, and continuously improving my problem-solving skills through hands-on learning.
+💻 Passionate about solving real-world problems using technology.
 
-* 🌱 Currently learning **Data Structures & Algorithms**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🚀 Looking for Software Development & AI/ML Internship opportunities
+🤖 Interested in
 
----
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Cloud Computing
+- Software Development
 
-# 🛠 Programming Languages
+🌱 Currently Learning
 
-* Python
-* Java
-* C++
-* SQL
-* HTML
-* CSS
+- Data Structures & Algorithms
+- System Design
+- Advanced FastAPI
+- Docker
+- Kubernetes
 
----
+🚀 Looking for
 
-# ⚙️ Technologies & Tools
+- Software Development Internship
+- Backend Development Roles
+- AI/ML Opportunities
 
-### 🤖 Artificial Intelligence & Machine Learning
+⚡ Fun Fact
 
-* Machine Learning
-* Deep Learning
-* TensorFlow
-* Keras
-* MobileNetV2
-* OpenCV
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-
-### 🗄️ Backend & Databases
-
-* FastAPI
-* MongoDB
-* MySQL
-
-### 📡 IoT
-
-* ESP8266
-* MQ Gas Sensor
-* Arduino IDE
-* Blynk
-
-### 🛠️ Developer Tools
-
-* Git
-* GitHub
-* VS Code
-* Streamlit
+> I enjoy transforming ideas into practical software that creates real-world impact.
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Tech Stack
 
-## 🚨 ResQ – AI Disaster Response Assistant
+## 🚀 Programming Languages
 
-An AI-powered emergency response platform designed to help users during disasters by providing intelligent guidance, real-time information, and emergency resources.
+<p>
 
-### ✨ Features
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
 
-* 🤖 AI-powered disaster assistance
-* 📍 Nearby shelters & emergency services
-* 🌦️ Real-time weather updates
-* 🎤 Voice Assistant
-* 🔐 Secure Authentication
-* 🌍 Multilingual Support
-* 💬 Chat History
-
-**Tech Stack**
-
-FastAPI • Python • MongoDB • OpenWeather API • Groq API • Git • GitHub
+</p>
 
 ---
 
-## 🍔 AI Food Recognition & Nutrition Analyzer
+## ⚙️ Backend Development
 
-A deep learning application that recognizes food items from images and provides estimated nutritional information.
+<p>
 
-### ✨ Features
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=flask" />
 
-* 🍕 Food image recognition
-* 🔍 Food category prediction
-* 🥗 Estimated nutritional information
-* 🖥️ Interactive Streamlit interface
-
-**Tech Stack**
-
-Python • TensorFlow • Keras • MobileNetV2 • OpenCV • Streamlit
+</p>
 
 ---
 
-## 🔥 IoT Smoke Detection System
+## 🗄 Databases
 
-An IoT-based smoke detection project developed using **ESP8266**, an **MQ Gas Sensor**, and the **Blynk mobile application** to detect smoke and send real-time alerts.
+<p>
 
-### ✨ Features
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-* 🔥 Smoke detection using MQ Gas Sensor
-* 📲 Real-time alerts through Blynk
-* 🌐 Wi-Fi-enabled monitoring
-* ⚡ Low-cost IoT solution
-
-**Tech Stack**
-
-ESP8266 • Arduino IDE • MQ Gas Sensor • Blynk
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
-* Data Structures & Algorithms
-* Machine Learning
-* Artificial Intelligence
-* Git & GitHub
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+## ☁️ Cloud & Deployment
 
-📧 **Email**
+<p>
 
-**[parulluharuka2005@gmail.com](mailto:parulluharuka2005@gmail.com)**
+<img src="https://skillicons.dev/icons?i=aws" />
 
-💼 **LinkedIn**
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
-[**Parul Kumari**](https://www.linkedin.com/in/parulkumari02)
+</p>
 
 ---
 
-# 💡 Quote
+## 🛠 Developer Tools
 
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."** 🚀
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parul-kumari089&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parul-kumari089&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ <b>Thank you for visiting my profile!</b><br>
-If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://streak-stats.demolab.com?user=Parul-kumari089&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parul-kumari089&theme=tokyonight"/>
+
+</p>
+
+---
