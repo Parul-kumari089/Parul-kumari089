@@ -140,7 +140,7 @@ Building practical software and AI applications while continuously improving my 
 
 <p>
 
-<a href="YOUR_RESQ_REPOSITORY">
+<a href="https://github.com/Jahnvi-ux/ResQ-Rapid-Emergency-Support-Quick-Assistance">
 
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
