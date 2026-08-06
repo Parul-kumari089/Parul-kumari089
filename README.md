@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Parul Kumari</h1>
 
 <h3 align="center">
-Final Year Computer Science Engineering Student | AI & ML Enthusiast | Backend Developer
+Final Year Computer Science Engineering Student | AI & ML Enthusiast 
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@ Passionate about building scalable software, AI-powered applications, and solvin
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/trisha-02/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -67,17 +67,8 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - Artificial Intelligence
 - Machine Learning
-- Backend Development
 - Cloud Computing
 - Software Development
-
-🌱 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- Advanced FastAPI
-- Docker
-- Kubernetes
 
 🚀 Looking for
 
@@ -100,21 +91,9 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=linux" />
 
 </p>
 
@@ -123,8 +102,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 ## 🗄 Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 </p>
@@ -157,8 +134,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws" />
-
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </p>
@@ -172,7 +147,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
