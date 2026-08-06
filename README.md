@@ -239,48 +239,12 @@ IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monit
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parul-kumari089/Parul-kumari089/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
-> **Note:** This animation will work after setting up the GitHub Action (I'll help you with that later).
-
----
-
-## 📌 Highlights
-
-- 🎓 Final Year B.Tech Computer Science Engineering Student
-- 📈 CGPA: **9.36**
-- 💻 Interested in **Software Development** and **Artificial Intelligence**
-- 🤖 Built AI/ML, IoT, and Software Development projects
-- 🌱 Continuously learning through hands-on projects and DSA practice
-
----
-
 <h3 align="center">
 ⭐ Thank you for visiting my profile!
 </h3>
 
 <p align="center">
 If you find my projects interesting, feel free to explore my repositories and connect with me.
-</p>
-
-<p align="center">
-
-<a href="mailto:parulluharuka2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/Parulkumari02">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/trisha-02/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 </p>
 
 <!-- ========================================================= -->
