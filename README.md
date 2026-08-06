@@ -148,14 +148,6 @@ Building practical software and AI applications while continuously improving my 
 
 </p>
 
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
 ### 🍽 Food Calorie Recognition
 
 Deep learning application that recognizes food from images and estimates nutritional information using **MobileNetV2 Transfer Learning**.
@@ -173,30 +165,9 @@ Deep learning application that recognizes food from images and estimates nutriti
 `MobileNetV2` • `OpenCV` • `Streamlit`
 
 <a href="https://github.com/Parul-kumari089/food-calorie-recognition">
-
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=food-calorie-recognition&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
+</p>
 
 ### 💳 Credit Card Fraud Detection
 
@@ -216,31 +187,10 @@ Machine learning model for detecting fraudulent transactions using preprocessing
 `Matplotlib`
 
 <a href="https://github.com/Parul-kumari089/credit-card-fraud-detection">
-
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
+</p>
 ---
-
-<table>
-
-<tr>
-
-<td width="50%">
-
 ### 🔥 IoT Smoke Detection System
 
 IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monitoring smoke levels and sending real-time alerts through Wi-Fi.
@@ -260,24 +210,11 @@ IoT-based smoke detection system using **ESP8266** and **MQ-2 Sensor** for monit
 `Blynk`
 
 <a href="https://github.com/Parul-kumari089/smoke-detection">
-
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
+</p>
 
-</td>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=smoke-detection&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=80&section=header&text=Certifications%20&%20Training&fontSize=30&fontColor=ffffff"/>
