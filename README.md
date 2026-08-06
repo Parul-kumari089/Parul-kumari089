@@ -109,55 +109,42 @@ Building practical software and AI applications while continuously improving my 
 <p align="center">
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parul-kumari089&theme=tokyonight"/>
 </p>
+<!-- ========================================================= -->
+<!--                   SELECTED PROJECTS                       -->
+<!-- ========================================================= -->
 
----
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">💼 Selected Projects</h2>
 
 <table>
-
 <tr>
+<td width="100%">
 
-<td width="50%">
+## 🚨 ResQ – AI-Powered Disaster Response Assistant
 
-### 🚨 ResQ – AI Disaster Response Assistant
+An AI-powered disaster response platform designed to provide intelligent emergency assistance through real-time weather updates, nearby shelter information, multilingual AI support, voice interaction, and emergency resources.
 
-AI-powered disaster response platform that provides intelligent emergency guidance, weather updates, nearby shelters, multilingual support, and voice interaction during emergencies.
+### ✨ Key Features
 
-**✨ Highlights**
-
-- 🤖 AI-powered disaster assistance
-- 🌦️ Live weather updates
+- 🤖 AI-powered emergency guidance
+- 🌦️ Real-time weather alerts
 - 📍 Nearby shelters & emergency services
 - 🎤 Voice Assistant
 - 💬 Chat History
 - 🌍 Multilingual Support
-- 🔐 Secure Authentication
+- 🔐 Secure User Authentication
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
-`FastAPI` `MongoDB Atlas` `JavaScript` `HTML` `CSS`
-`Groq API` `OpenWeather API` `Render`
+`FastAPI` • `MongoDB Atlas` • `HTML` • `CSS` • `JavaScript` • `Groq API` • `OpenWeather API` • `Render`
 
-<p>
-
-<a href="YOUR_RESQ_REPO">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<p align="left">
+<a href="YOUR_RESQ_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 </td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="180"/>
-
-</td>
-
 </tr>
-
 </table>
 
 ---
@@ -168,90 +155,51 @@ AI-powered disaster response platform that provides intelligent emergency guidan
 
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="170"/>
+## 🍽 Food Calorie Recognition
 
-</td>
+Deep learning application that identifies food items from images and estimates nutritional information using transfer learning.
 
-<td width="50%">
+**Highlights**
 
-### 🍽 Food Calorie Recognition
-
-Deep learning application that recognizes food from images and estimates nutritional information using transfer learning.
-
-**✨ Highlights**
-
-- 📸 Food Image Recognition
-- 🍔 Nutrition Estimation
+- 📸 Food Recognition
 - 🧠 MobileNetV2 Transfer Learning
+- 🥗 Nutrition Estimation
 - 🖥️ Streamlit Interface
 
-**🛠 Tech Stack**
+**Tech Stack**
 
-`Python`
-`TensorFlow`
-`Keras`
-`OpenCV`
-`MobileNetV2`
-`Streamlit`
+`Python` • `TensorFlow` • `Keras` • `OpenCV` • `MobileNetV2` • `Streamlit`
 
 <p>
-
 <a href="https://github.com/Parul-kumari089/food-calorie-recognition">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 </td>
 
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
 <td width="50%">
 
-### 💳 Credit Card Fraud Detection
+## 💳 Credit Card Fraud Detection
 
-Machine learning project that detects fraudulent credit card transactions using data preprocessing, imbalance handling, and classification techniques.
+Machine learning model that detects fraudulent transactions using data preprocessing, feature engineering, and imbalance handling techniques.
 
-**✨ Highlights**
+**Highlights**
 
 - 💳 Fraud Detection
-- ⚖️ SMOTE for Imbalanced Data
+- ⚖️ SMOTE
 - 📊 Data Preprocessing
-- 🤖 Machine Learning Model
-- 📈 Model Evaluation
+- 🤖 Machine Learning
 
-**🛠 Tech Stack**
+**Tech Stack**
 
-`Python`
-`Scikit-learn`
-`Pandas`
-`NumPy`
-`Matplotlib`
-`SMOTE`
+`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`
 
 <p>
-
-<a href="https://github.com/Parul-kumari089/credit-card-fraud-detection">
-
+<a href="YOUR_CREDIT_CARD_REPOSITORY_LINK">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="170"/>
 
 </td>
 
@@ -259,7 +207,7 @@ Machine learning project that detects fraudulent credit card transactions using 
 
 </table>
 
------
+---
 
 <table>
 
@@ -267,39 +215,32 @@ Machine learning project that detects fraudulent credit card transactions using 
 
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="170"/>
+## 🔥 IoT Smoke Detection System
+
+IoT-based smoke detection system using ESP8266 and MQ-2 sensor for monitoring smoke levels and sending real-time alerts.
+
+**Highlights**
+
+- 🔥 Smoke Detection
+- 📲 Real-time Alerts
+- 🌐 Wi-Fi Monitoring
+- ⚡ Low-cost IoT Solution
+
+**Tech Stack**
+
+`ESP8266` • `Arduino IDE` • `MQ-2 Sensor` • `Blynk`
+
+<p>
+<a href="YOUR_SMOKE_DETECTION_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔥 IoT Smoke Detection System
-
-IoT-based smoke detection system using ESP8266 and MQ-2 sensor for real-time monitoring and alerts.
-
-**✨ Highlights**
-
-- 🔥 Smoke Detection
-- 📲 Blynk Alerts
-- 🌐 Wi-Fi Monitoring
-- ⚡ Low-Cost IoT Solution
-
-**🛠 Tech Stack**
-
-`ESP8266`
-`Arduino IDE`
-`MQ-2 Sensor`
-`Blynk`
-
-<p>
-
-<a href="YOUR_SMOKE_REPO">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parul-kumari089&repo=food-calorie-recognition&theme=tokyonight&hide_border=true" />
 
 </td>
 
@@ -309,52 +250,16 @@ IoT-based smoke detection system using ESP8266 and MQ-2 sensor for real-time mon
 
 ---
 
-# 🏆 Certifications
+<!-- ========================================================= -->
+<!--                CERTIFICATIONS & TRAINING                  -->
+<!-- ========================================================= -->
 
-- 🎓 IBM SkillsBuild – Generative AI & Cloud Computing
-- 🎓 Microsoft AI Careers for Women
-- 🎓 SAP Skills Program
-- 🎓 Cisco – Operating Systems
-- 🎓 Cisco – Cybersecurity Essentials
+<h2 align="center">🏆 Certifications & Training</h2>
 
----
-
-# 📚 Currently Learning
-
-- 📖 Data Structures & Algorithms
-- 💻 Software Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 REST APIs & FastAPI
-- 🛠 Git & GitHub
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve **500+ LeetCode** problems
-- ✅ Build impactful software projects
-- ✅ Strengthen DSA & Core CS Fundamentals
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/trisha-02/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Parul-kumari089">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/Parulkumari02">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+- 🎓 **IBM SkillsBuild Virtual Internship** – Generative AI & Cloud Computing
+- 🎓 **AI Careers for Women** – Microsoft, SAP & Edunet Foundation
+- 🎓 **AI/ML Traning ** – Torr Lab
+- 🎓 **Operating Systems Basics** – Cisco Networking Academy
+- 🎓 **Cybersecurity Essentials** – Cisco Networking Academy
 
 ---
