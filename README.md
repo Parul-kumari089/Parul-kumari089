@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://portfolio-mu-seven-vo8qhsslxn.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-0A66C2?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Parul Kumari</h1>
 
 <h3 align="center">
